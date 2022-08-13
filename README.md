@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="eliabe | Discord" width="22px" src="https://i.imgur.com/UFs1cYM.png"/>](https://discord.gg/eliabe#4998)
+[<img align="left" alt="eliabe | Discord" width="22px" src="https://i.imgur.com/UFs1cYM.png"/>](https://discord.com/users/526586809191497748)
 [<img align="left" alt="eliabexp | Twitter" width="22px" src="https://i.imgur.com/FKU6bO3.png"/>](https://twitter.com/eliabexp)
 <br />
 
