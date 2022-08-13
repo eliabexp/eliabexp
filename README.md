@@ -1,6 +1,7 @@
 ### Hi there, I'm Eliabe 👋
 <br />
 
+- 🐀 Learning about [sistema](https://youtu.be/iBLJatSI4dw)...
 - 🌱 I’m currently learning JavaScript...
 - 🔭 I am currently working on [HypeSquad](https://discord.gg/ejhvRSbc6m).
 
