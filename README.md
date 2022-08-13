@@ -1,5 +1,4 @@
 ### Hi there, I'm Eliabe 👋
-
 <br />
 
 - 🌱 I’m currently learning JavaScript...
