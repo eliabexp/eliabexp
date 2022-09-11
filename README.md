@@ -3,7 +3,7 @@
 
 - 🐀 Learning about [sistema](https://youtu.be/iBLJatSI4dw)...
 - 🌱 I’m currently learning JavaScript...
-- 🔭 I am currently working on [HypeSquad](https://discord.gg/ejhvRSbc6m).
+- 🔭 I am currently working on [HypeSquad](https://discord.gg/ejhvRSbc6m)
 
 ### Connect with me:
 
@@ -25,8 +25,3 @@
 ---
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eliabexp&show_icons=true&hide_border=true" />
-
-<!---
-eliabexp/eliabexp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
