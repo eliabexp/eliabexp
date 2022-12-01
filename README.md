@@ -25,3 +25,5 @@
 ---
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eliabexp&show_icons=true&hide_border=true" />
+
+![snake gif](https://github.com/eliabexp/eliabexp/blob/output/github-contribution-grid-snake.svg)
