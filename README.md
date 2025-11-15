@@ -1,19 +1,21 @@
-## Hi there, I'm Eliabe 👋
+# Hi there, I'm Eliabe 👋
 
 - 🌱 Greatness in small beginnings
-- 📚 I’m currently learning Web Development
-- 🔭 I am currently working on ...
 
-### Connect with me:
+## Stack
 
-[<img align="left" alt="eliabe | Discord" width="22px" src="https://i.imgur.com/UFs1cYM.png"/>](https://discord.com/users/526586809191497748)
-[<img align="left" alt="eliabexp | Twitter" width="22px" src="https://i.imgur.com/FKU6bO3.png"/>](https://x.com/eliabexp)
-<br>
+### Languages
 
-### Languages and Tools:
+![JS/TS, C, Go](https://skillicons.dev/icons?i=js,ts,c,go)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,express)
+### Tools
+
+![Node.js, Bun, React, Next.js, Tailwind, Elysia](https://skillicons.dev/icons?i=nodejs,bun,react,next,tailwind,elysia)
 
 ---
-### My statistics:
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eliabexp&show_icons=true&hide_border=true"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliabexp/eliabexp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliabexp/eliabexp/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/eliabexp/eliabexp/output/github-contribution-grid-snake-dark.svg">
+</picture>
