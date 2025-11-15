@@ -1,6 +1,6 @@
 # Hi there, I'm Eliabe 👋
 
-> [🌱 Greatness from small beginnings](https://youtu.be/6UuGbyCenig)
+> 🌱 [Greatness from small beginnings](https://youtu.be/6UuGbyCenig)
 
 ## Stack
 
