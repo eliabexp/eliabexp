@@ -1,9 +1,6 @@
 ### Hi there, I'm Eliabe 👋
 
-<br />
-
-- 🌱 I’m currently learning JavaScript...
-- 🔭 I am currently working on [HypeSquad](https://discord.gg/ejhvRSbc6m)
+> [🌱 Greatness from small beginnings](https://youtu.be/6UuGbyCenig)
 
 ## Stack
 
