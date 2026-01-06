@@ -1,20 +1,18 @@
 ### Hi there, I'm Eliabe 👋
 
-> [🌱 Greatness from small beginnings](https://youtu.be/6UuGbyCenig)
+> 🌱 [Greatness from small beginnings](https://youtu.be/6UuGbyCenig)
 
-## Stack
+## Languages
 
-[<img align="left" alt="eliabe | Discord" width="22px" src="https://i.imgur.com/UFs1cYM.png"/>](https://discord.gg/eliabe#4998)
-[<img align="left" alt="eliabexp | Twitter" width="22px" src="https://i.imgur.com/FKU6bO3.png"/>](https://twitter.com/eliabexp)
-<br />
+![JS/TS, C, Java, Python](https://skills.syvixor.com/api/icons?perline=10&i=javascript,typescript,c,java,python)
 
-![JS/TS, C, Go](https://skillicons.dev/icons?i=js,ts,c,go)
+## My pet stack
 
-### Tools
+Stacks come and go, and a developer should be able to adapt to any stack. So these are just the tools I happen to enjoy.
 
-![Node.js, Bun, React, Next.js, Tailwind, Elysia](https://skillicons.dev/icons?i=nodejs,bun,react,next,tailwind,elysia)
+![Bun, React, Next.js, TailwindCSS, Elysia, Drizzle](https://skills.syvixor.com/api/icons?perline=10&i=bun,react,next,tailwind,elysia,drizzle)
 
----
+## Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliabexp/eliabexp/output/github-contribution-grid-snake-dark.svg">
