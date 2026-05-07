@@ -1,5 +1,7 @@
 ### Hi there, I'm Eliabe 👋
 
+I'm currently undergraduating in Software Engineering at the [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia). Glad you're here 😉
+
 > 🌱 [Greatness from small beginnings](https://youtu.be/6UuGbyCenig)
 
 ## Languages
