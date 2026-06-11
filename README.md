@@ -1,6 +1,6 @@
-### Hi there, I'm Eliabe 👋
+# Hi there, I'm Eliabe 👋
 
-I'm currently undergraduating in Software Engineering at the [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia). Glad you're here 😉
+I'm currently undergraduating in Software Engineering at the [University of Brasília](https://unb.br). Glad you're here 😉
 
 > 🌱 [Greatness from small beginnings](https://youtu.be/6UuGbyCenig)
 
@@ -12,7 +12,7 @@ I'm currently undergraduating in Software Engineering at the [University of Bras
 
 Stacks come and go, and a developer should be able to adapt to any stack. So these are just the tools I happen to enjoy.
 
-![Bun, React, Next.js, TailwindCSS, Elysia, Drizzle](https://skills.syvixor.com/api/icons?perline=10&i=bun,react,next,tailwind,elysia,drizzle)
+![Bun, React, Next.js, TailwindCSS, Elysia, Drizzle](https://skills.syvixor.com/api/icons?perline=10&i=bun,react,nextjs,tailwind,elysia,drizzle,postgresql)
 
 ## Commits
 
