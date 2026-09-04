@@ -1,6 +1,6 @@
 # Hi there, I'm Eliabe 👋
 
-I'm currently undergraduating in Software Engineering at the [University of Brasília](https://unb.br). Glad you're here 😉
+I'm currently undergraduating in Software Engineering at the [University of Brasília](https://unb.br).
 
 > 🌱 [Greatness from small beginnings](https://youtu.be/6UuGbyCenig)
 
@@ -13,11 +13,3 @@ I'm currently undergraduating in Software Engineering at the [University of Bras
 Stacks come and go, and a developer should be able to adapt to any stack. So these are just the tools I happen to enjoy.
 
 ![Bun, React, Next.js, TailwindCSS, Elysia, Drizzle](https://skills.syvixor.com/api/icons?perline=10&i=bun,react,tailwind,nextjs,betterauth,elysia,drizzle,postgresql)
-
-## Commits
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliabexp/eliabexp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliabexp/eliabexp/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/eliabexp/eliabexp/output/github-contribution-grid-snake-dark.svg">
-</picture>
